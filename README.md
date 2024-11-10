@@ -1,4 +1,4 @@
-# Data Structures Lab Sheet 1
+# Data Structures Lab Sheet 2
 
 ## How to Run the Code
 
@@ -8,8 +8,14 @@
    ```bash
    git clone https://github.com/Aryan-Dot-Dev/Lab-Sheet-2
    ```
+
+2. **Go to the Lab Sheet 2 directory**
+    Navigate to ```Lab-Sheet-2 ```
+    ```
+    cd .\Lab-Sheet-2
+    ```
    
-2. **Compile the Code**:
+3. **Compile the Code**:
     Use javac to create Class Files for all Java files.
     All the code is compiled in out/src and out/test directories
     ```bash
@@ -17,7 +23,7 @@
     javac -d out source/StringAlgorithms.java test/StringAlgorithmsTest.java
     ```
 
-3. **Run the Code**:
+4. **Run the Code**:
     Use java command to run files individually.
     ```bash
     java -cp out test.TwoDimensionalArrayTest
